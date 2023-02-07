@@ -1,0 +1,12 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+.kolo{
+    width: 55px;
+    height: 55px;
+    background-color: brown;
+    border-radius: 50%;
+    position: absolute;
+    
+}
